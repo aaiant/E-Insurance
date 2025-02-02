@@ -1,0 +1,5 @@
+Andi,BMW,M4,S54,Motorina,2022,Euro 5,110.00000000000001
+Darius,Chevrolet,Camaro,LS3 V8,Motorina,2008,Euro 4,90.0
+andrei,Chevrolet,Camaro,LS3 V8,Benzina,2004,Euro 4,90.0
+Alexandru,BMW,M2,N63,Hibrid,2006,Euro 6,90.0
+Daria Maria,Citroen,C-Elysee,XU,Benzina,2008,Euro 6,90.0

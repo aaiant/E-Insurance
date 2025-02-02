@@ -1,0 +1,6 @@
+asdasd,Chevrolet,Spark,LS V8,Hibrid,2005,Euro 5
+Andi,BMW,M4,S54,Motorina,2022,Euro 5
+Darius,Chevrolet,Camaro,LS3 V8,Motorina,2008,Euro 4
+andrei,Chevrolet,Camaro,LS3 V8,Benzina,2004,Euro 4
+Alexandru,BMW,M2,N63,Hibrid,2006,Euro 6
+Daria Maria,Citroen,C-Elysee,XU,Benzina,2008,Euro 6
