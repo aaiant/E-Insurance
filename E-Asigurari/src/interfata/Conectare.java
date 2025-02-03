@@ -43,7 +43,7 @@ public class Conectare extends JFrame {
         GridBagConstraints constraints = new GridBagConstraints();
         constraints.insets = new Insets(10, 10, 10, 10);
 
-        usernameLabel = new JLabel("Username: ");
+        usernameLabel = new JLabel("Nume de utilizator: ");
         constraints.gridx = 0;
         constraints.gridy = 0;
         panel.add(usernameLabel, constraints);
@@ -53,7 +53,7 @@ public class Conectare extends JFrame {
         constraints.gridy = 0;
         panel.add(usernameField, constraints);
 
-        passwordLabel = new JLabel("Password: ");
+        passwordLabel = new JLabel("Parola: ");
         constraints.gridx = 0;
         constraints.gridy = 1;
         panel.add(passwordLabel, constraints);
@@ -63,7 +63,7 @@ public class Conectare extends JFrame {
         constraints.gridy = 1;
         panel.add(passwordField, constraints);
 
-        loginButton = new JButton("Login");
+        loginButton = new JButton("Conectare");
         loginButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -71,12 +71,12 @@ public class Conectare extends JFrame {
                 char[] password = passwordField.getPassword();
 
                 if (verifyLogin(username, password)) {
-                    JOptionPane.showMessageDialog(null, "Login successful.");
+                    JOptionPane.showMessageDialog(null, "Autentificare reusita.");
                     dispose();
                     SelectiaMasinilor carSelectionUI = new SelectiaMasinilor();
                     carSelectionUI.setVisible(true);
                 } else {
-                    JOptionPane.showMessageDialog(null, "Login failed, please try again.");
+                    JOptionPane.showMessageDialog(null, "Autentificare esuata! Te rugam sa incerci din nou.");
                 }
             }
         });
