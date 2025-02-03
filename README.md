@@ -5,8 +5,14 @@
 
 <br><h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <a href="https://docs.oracle.com/javase/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://docs.oracle.com/javase/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </div>
 
